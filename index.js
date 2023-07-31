@@ -1,1 +1,1 @@
-console.log("GIT HELLO");
+console.log("GIT PUSH ready!");
